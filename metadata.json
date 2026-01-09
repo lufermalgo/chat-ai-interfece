@@ -1,0 +1,7 @@
+{
+  "name": "ChatAI Interface",
+  "description": "A backend-agnostic, next-gen chat interface for AI agents with administrative controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
